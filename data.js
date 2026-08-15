@@ -1568,7 +1568,7 @@ window.DASHBOARD_DATA = {
               done: false,
             },
             {
-              text: "紅燈是在保護你",
+              text: "紅燈是在保護你沒錯",
               desc: "被擋下來的那個東西，如果沒被擋住，會出現在所有人面前。",
               done: false,
             },
@@ -1638,7 +1638,7 @@ window.DASHBOARD_DATA = {
             {
               text: "猜與撈，照清單呼叫",
               desc: "工具方事先把能力列成清單，AI 直接照著叫，不用猜也不用撈。",
-              done: false,
+              done: true,
             },
             {
               text: "通用，不綁 GitHub",
