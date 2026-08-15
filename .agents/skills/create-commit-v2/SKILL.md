@@ -1,5 +1,5 @@
 ---
-name: create-commit
+name: create-commit-v2
 description: 依課程慣例完成一次 Git 提交——把變更加入暫存區，並產生符合課程格式的提交訊息。當使用者要求提交變更、提交目前的修改，或說要 commit 時使用。
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: create-branch
+name: create-branch-v2
 description: 依課程慣例替任務取好分支名稱，從 main 建立並切換到工作分支。當使用者要求開分支、建立工作分支，或描述了一個新任務準備開始動工時使用。
 ---
 
