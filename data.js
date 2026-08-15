@@ -1638,7 +1638,7 @@ window.DASHBOARD_DATA = {
             {
               text: "猜與撈，照清單呼叫",
               desc: "工具方事先把能力列成清單，AI 直接照著叫，不用猜也不用撈。",
-              done: true,
+              done: false,
             },
             {
               text: "通用，不綁 GitHub",
