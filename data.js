@@ -1568,7 +1568,7 @@ window.DASHBOARD_DATA = {
               done: false,
             },
             {
-              text: "紅燈是在保護你",
+              text: "紅燈是在保護你沒錯",
               desc: "被擋下來的那個東西，如果沒被擋住，會出現在所有人面前。",
               done: false,
             },
